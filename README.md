@@ -14,6 +14,8 @@ Pandas: https://pandas.pydata.org/docs/
 
 matplotlib: https://matplotlib.org/stable/api/index.html
 
+Requests: https://pypi.org/project/requests/
+
 ## Data Attributes 
 Date(date): The date of the recorded view count.
 Views(integer): The recorded view count on a specific day.
